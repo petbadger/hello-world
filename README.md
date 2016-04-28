@@ -15,3 +15,5 @@ Software Carpentry course *learning* to use **GitHub**
 
 
 http://www.cyberciti.biz/faq/bash-loop-over-file/
+
+https://guides.github.com/activities/hello-world/
